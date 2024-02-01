@@ -10,4 +10,7 @@ Listagem das 5 palavras mais frequentes no texto.
 
 Para executar, salve o código acima em um arquivo chamado text_analyzer.py e execute no console com o comando: 
 * python text_analyzer.py 
+
+
+<br>
 ![image](https://github.com/Lowpexay/Python_Codes/assets/108759445/056c79bb-8adb-47f2-9c43-aed158143d93)
