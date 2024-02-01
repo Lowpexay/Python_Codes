@@ -9,4 +9,4 @@ Contagem de frases no texto.
 Listagem das 5 palavras mais frequentes no texto.
 
 Para executar, salve o código acima em um arquivo chamado text_analyzer.py e execute no console com o comando: 
-* python text_analyzer.py *
+* python text_analyzer.py 
