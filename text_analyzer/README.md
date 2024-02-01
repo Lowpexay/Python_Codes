@@ -1,5 +1,5 @@
 
-* Analisador de Texto *
+<h1> Analisador de Texto </h1>
 Esse é um script em Python que analisa um texto fornecido pelo usuário e fornece informações úteis, como contagem de palavras, contagem de caracteres, contagem de frases, e a frequência das palavras mais comuns.
 
 Funcionalidades:
