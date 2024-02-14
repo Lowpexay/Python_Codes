@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     
     calculadora.calcular_media()
-    ;
+    
 
   
     calculadora.limpar_lista()
